@@ -17,10 +17,11 @@ public class TekCiftSonsuzDongu {
             switch (sonuc){
                 case 0 :
                     System.out.println("Sayı çifttir");
-                    break:
+                    break;
                 case 1 :
-                    System.out.println("Syı tektir");
-                    
+                    System.out.println("Sayı tektir");
+                    break;
+
             }
 
 
