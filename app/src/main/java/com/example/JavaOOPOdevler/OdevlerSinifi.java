@@ -61,6 +61,7 @@ public class OdevlerSinifi {
 
          System.out.println(dilekce);
      }
+<<<<<<< HEAD
      public int maasHesapla(int gun){
         int calismaSaati = gun * 8 ;
         int mesaiSaati = calismaSaati - 160 ;
@@ -77,6 +78,8 @@ public class OdevlerSinifi {
          System.out.println("Fatura : "+faturaMiktari+" tl");
      }
 
+=======
+>>>>>>> origin/master
 
 
     }
